@@ -1,30 +1,43 @@
-# Construction Service Website
+# 🏗️ Construction Service Website
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+A modern, responsive website for a construction services company, designed to showcase services, attract potential clients, and establish a strong online presence.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/ravirajbhosale1998-1409s-projects/v0-construction-service-website-gj)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/foRK8U9fTee)
+[![Live Site](https://img.shields.io/badge/Live%20Site-Vercel-black?style=for-the-badge&logo=vercel)](https://v0-construction-service-website-gj.vercel.app/)
 
-## Overview
+---
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+## 🌐 Live Preview
 
-## Deployment
+👉 Visit the live site:  
+**🔗 [https://v0-construction-service-website-gj.vercel.app](https://v0-construction-service-website-gj.vercel.app/)**
 
-Your project is live at:
+---
 
-**[https://vercel.com/ravirajbhosale1998-1409s-projects/v0-construction-service-website-gj](https://vercel.com/ravirajbhosale1998-1409s-projects/v0-construction-service-website-gj)**
+## 🧰 Technologies Used
 
-## Build your app
+- **Frontend:** HTML, CSS, Tailwind CSS, React
+- **Deployment:** Vercel
 
-Continue building your app on:
+---
 
-**[https://v0.app/chat/projects/foRK8U9fTee](https://v0.app/chat/projects/foRK8U9fTee)**
+## 📌 Features
 
-## How It Works
+- Professional homepage and service listings
+- Mobile-friendly and fully responsive layout
+- Clean, modern UI/UX design
+- Contact section with call-to-action
 
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+---
+
+## 📁 Folder Structure
+
+```plaintext
+📦construction-service-website
+ ┣ 📂public
+ ┣ 📂src
+ ┃ ┣ 📂components
+ ┃ ┣ 📂pages
+ ┃ ┗ 📂styles
+ ┣ 📄README.md
+ ┣ 📄vercel.json
+ ┗ 📄package.json
