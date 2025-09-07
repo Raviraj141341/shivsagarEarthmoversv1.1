@@ -5,7 +5,7 @@ import { ArrowRight, CheckCircle, Home, Hammer, Ruler } from "lucide-react"
 import { Button } from "@/components/ui/button"
 
 export const metadata = {
-  title: "Residential Construction | BuildMaster Construction",
+  title: "Excavation Services | Shivsagar Earthmovers",
   description:
     "Explore BuildMaster's residential construction services including custom homes, renovations, and additions.",
 }
@@ -16,9 +16,9 @@ export default function ResidentialServicePage() {
       {/* Hero Section */}
       <section className="relative h-[400px] w-full overflow-hidden">
         <div className="absolute inset-0 bg-black/60 z-10" />
-        <Image src="/images/residential-1.png" alt="Residential construction" fill className="object-cover" priority />
+        <Image src="/images/residential-1.png" alt="Excavation Services" fill className="object-cover" priority />
         <div className="relative z-20 container mx-auto px-4 h-full flex flex-col justify-center items-center text-center">
-          <h1 className="text-4xl md:text-5xl font-bold text-white mb-4">Residential Construction</h1>
+          <h1 className="text-4xl md:text-5xl font-bold text-white mb-4">Excavation Services</h1>
           <p className="text-xl text-white/90 max-w-2xl">
             Building dream homes with quality craftsmanship and attention to detail.
           </p>
@@ -31,7 +31,7 @@ export default function ResidentialServicePage() {
           <div className="grid md:grid-cols-2 gap-16 items-center max-w-6xl mx-auto">
             <div>
               <div className="inline-block px-4 py-2 bg-amber-100 text-amber-700 rounded-full text-sm font-medium mb-4">
-                Residential Services
+               Construction Support
               </div>
               <h2 className="text-4xl font-bold mb-6">Creating Spaces You'll Love to Call Home</h2>
               <p className="text-gray-700 mb-6 text-lg">
@@ -52,7 +52,7 @@ export default function ResidentialServicePage() {
               </Link>
             </div>
             <div className="relative h-[500px] rounded-2xl overflow-hidden shadow-xl">
-              <Image src="/images/residential-2.png" alt="Residential construction" fill className="object-cover" />
+              <Image src="/images/residential-2.png" alt="Excavation Services" fill className="object-cover" />
             </div>
           </div>
         </div>

@@ -187,38 +187,38 @@ export default function ServicesPage() {
 // Sample data
 const services = [
   {
-    title: "Residential Construction",
+    title: "Excavation Services",
     description: "Custom home building, renovations, and additions tailored to your lifestyle and preferences.",
     image: "/images/residential-1.png",
     link: "/services/residential",
   },
   {
-    title: "Commercial Development",
+    title: "Construction Support",
     description:
       "Office buildings, retail spaces, and hospitality venues designed for functionality and aesthetic appeal.",
     image: "/images/commercial-1.png",
     link: "/services/commercial",
   },
   {
-    title: "Industrial Facilities",
+    title: "Mining & Quarrying",
     description: "Manufacturing plants, warehouses, and distribution centers built for efficiency and durability.",
     image: "/images/industrial-1.png",
     link: "/services/industrial",
   },
   {
-    title: "Architectural Design",
+    title: "Water Projects",
     description: "Innovative architectural solutions that balance form, function, and sustainability.",
     image: "/images/project-3.png",
     link: "/services/design",
   },
   {
-    title: "Project Management",
+    title: "Infrastructure Projects",
     description: "Comprehensive oversight of construction projects from planning to completion.",
     image: "/images/process.png",
     link: "/services/management",
   },
   {
-    title: "Sustainable Building",
+    title: "Farm Pond Construction",
     description: "Eco-friendly construction practices and materials for environmentally conscious projects.",
     image: "/images/residential-2.png",
     link: "/services/sustainable",

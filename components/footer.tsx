@@ -47,7 +47,7 @@ export function Footer() {
                   href="/services/residential"
                   className="text-gray-400 text-sm sm:text-base hover:text-amber-500 transition-colors inline-block"
                 >
-                  Residential Construction
+                 Excavation Services
                 </Link>
               </li>
               <li>
@@ -55,7 +55,7 @@ export function Footer() {
                   href="/services/commercial"
                   className="text-gray-400 text-sm sm:text-base hover:text-amber-500 transition-colors inline-block"
                 >
-                  Commercial Development
+                 Construction Support
                 </Link>
               </li>
               <li>
@@ -63,7 +63,7 @@ export function Footer() {
                   href="/services/industrial"
                   className="text-gray-400 text-sm sm:text-base hover:text-amber-500 transition-colors inline-block"
                 >
-                  Industrial Facilities
+                  Mining & Quarrying
                 </Link>
               </li>
               <li>
@@ -71,7 +71,7 @@ export function Footer() {
                   href="/services/design"
                   className="text-gray-400 text-sm sm:text-base hover:text-amber-500 transition-colors inline-block"
                 >
-                  Architectural Design
+                  Water Projects
                 </Link>
               </li>
               <li>
@@ -79,7 +79,7 @@ export function Footer() {
                   href="/services/management"
                   className="text-gray-400 text-sm sm:text-base hover:text-amber-500 transition-colors inline-block"
                 >
-                  Project Management
+                 Infrastructure Projects
                 </Link>
               </li>
               <li>
@@ -87,7 +87,7 @@ export function Footer() {
                   href="/services/sustainable"
                   className="text-gray-400 text-sm sm:text-base hover:text-amber-500 transition-colors inline-block"
                 >
-                  Sustainable Building
+                  Farm Pond Construction
                 </Link>
               </li>
             </ul>

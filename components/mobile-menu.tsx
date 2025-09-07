@@ -96,7 +96,7 @@ export function MobileMenu({ isOpen, onClose }: MobileMenuProps) {
                     transition={{ type: "spring", stiffness: 300, damping: 20, delay: 0.2 }}
                     className="flex flex-col"
                   >
-                    <span className="text-base sm:text-lg font-bold">BuildMaster</span>
+                    <span className="text-base sm:text-lg font-bold">Shivsagar Earthmovers</span>
                     <span className="text-[10px] sm:text-xs text-muted-foreground">Construction Excellence</span>
                   </motion.div>
                 </Link>
@@ -143,28 +143,29 @@ export function MobileMenu({ isOpen, onClose }: MobileMenuProps) {
                   >
                     <MobileSubNavItem
                       href="/services/residential"
-                      label="Residential Construction"
+                      label="Excavation Services"
                       isActive={pathname === "/services/residential"}
                       onClick={onClose}
                     />
                     <MobileSubNavItem
                       href="/services/commercial"
-                      label="Commercial Development"
+                      label="Construction Support"
                       isActive={pathname === "/services/commercial"}
                       onClick={onClose}
                     />
                     <MobileSubNavItem
                       href="/services/industrial"
-                      label="Industrial Facilities"
+                      label="Mining & Quarrying"
                       isActive={pathname === "/services/industrial"}
                       onClick={onClose}
                     />
                     <MobileSubNavItem
                       href="/services/design"
-                      label="Architectural Design"
+                      label="Water Projects"
                       isActive={pathname === "/services/design"}
                       onClick={onClose}
                     />
+                    
                   </motion.div>
                 </motion.div>
 

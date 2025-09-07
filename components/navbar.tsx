@@ -161,10 +161,12 @@ export function Navbar() {
                 <DropdownNavItem
                   label="Services"
                   items={[
-                    { href: "/services/residential", label: "Residential Construction" },
-                    { href: "/services/commercial", label: "Commercial Development" },
-                    { href: "/services/industrial", label: "Industrial Facilities" },
-                    { href: "/services/design", label: "Architectural Design" },
+                    { href: "/services/residential", label: "Excavation Services" },
+                    { href: "/services/commercial", label: "Construction Support" },
+                    { href: "/services/industrial", label: "Mining & Quarrying" },
+                    { href: "/services/design", label: "Water Projects" },
+                    { href: "/services/infrastructure", label: "Infrastructure Projects" },
+                     { href: "/services/farmpond", label: "Farm Pond Construction" },
                   ]}
                   pathname={pathname}
                   onHover={() => setHoveredItem("services")}
