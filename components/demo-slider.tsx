@@ -24,7 +24,7 @@ export function DemoSlider() {
   // Sample slider images
   const sliderImages = [
     {
-      src: "/images/hero-1.png",
+      src: "https://i.ibb.co/pjcm4rPk/Poklin210-feet50.png",
       alt: "Modern construction project with workers on site",
     },
     {

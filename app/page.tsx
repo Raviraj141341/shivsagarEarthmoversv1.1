@@ -23,7 +23,7 @@ export default function Home() {
         {/* Background Image */}
         <div className="absolute inset-0">
           <Image
-            src="/images/hero-1.png"
+            src="https://i.ibb.co/pjcm4rPk/Poklin210-feet50.png"
             alt="Construction site background"
             fill
             priority
